@@ -297,7 +297,7 @@ Output of the above command
     Removing intermediate container 5d60ad3a59ff
      ---> 960d37536dcd
     Successfully built 960d37536dcd
-    Successfully tagged abhishekf5/my-first-docker-image:latest
+    Successfully tagged susha5/my-first-docker-image:latest
 ```
 
 ### Verify Docker Image is created
@@ -310,7 +310,7 @@ Output
 
 ```
 REPOSITORY                         TAG       IMAGE ID       CREATED          SIZE
-abhishekf5/my-first-docker-image   latest    960d37536dcd   26 seconds ago   467MB
+susha5/my-first-docker-image       latest    960d37536dcd   26 seconds ago   467MB
 ubuntu                             latest    58db3edaf2be   13 days ago      77.8MB
 hello-world                        latest    feb5d9fea6a5   16 months ago    13.3kB
 ```
