@@ -267,7 +267,7 @@ Login Succeeded
 You need to change the username accoringly in the below command
 
 ```
-docker build -t susha234/my-first-docker-image:latest .
+docker build -t susha5/my-first-docker-image:latest .
 ```
 
 Output of the above command
